@@ -4,3 +4,6 @@ I merged and updating the text file in the main branch. next step is to del the 
 This is a new branch to check multiple commits
 
 This is a branch to check if its gets pushed to github
+
+This is a new branch to push to create pull request
+
