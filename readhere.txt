@@ -2,3 +2,5 @@ This is a file jus to commit in main branch
 so this is work in text branch and i want to merge it to the main branch, lets c how we can do it
 I merged and updating the text file in the main branch. next step is to del the branch after push
 This is a new branch to check multiple commits
+
+This is a branch to check if its gets pushed to github
